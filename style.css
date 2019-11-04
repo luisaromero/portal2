@@ -1,0 +1,66 @@
+*{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.navbar{
+    height:58px;
+    background:rgb(90, 87, 87);
+}
+.card{
+    margin-top:30%;
+    margin-bottom:30%;
+    height:81%;
+}
+img{
+    width:110;
+     height:110px ;
+}
+
+strong{
+    color: rgb(58, 117, 226);
+}
+.card-up{
+    height:320px;
+    border-bottom-left-radius: 50% 20%;
+    border-bottom-right-radius: 50% 20%;
+  
+}.title{
+    font-size:120%;
+}
+.navbar img{
+    height:40px;
+    padding:3%;
+
+}
+.card-body{
+   margin-top:15%;
+}
+p{
+    color:rgb(104, 101, 101)}
+    /* background: linear-gradient(90deg, #9ebd13 0%, #008552 100%);
+ */
+ h4{
+    padding:13%;
+     color: rgb(231, 225, 225);
+     font-size: 1.2rem;
+ }
+ #firstCard{
+    background: radial-gradient(circle, rgba(126,190,210,1) 0%, rgba(50,169,218,1) 100%);
+ }
+ #secondCard{
+    background: radial-gradient(circle, rgba(215,140,86,1) 37%, rgba(203,87,45,1) 100%, rgba(252,70,107,1) 100%);
+ }
+ #thirdCard{
+    background: radial-gradient(circle, rgba(161,78,209,1) 24%, rgba(148,101,210,1) 48%, rgba(149,71,194,1) 100%, rgba(252,70,107,1) 100%);
+ }
+ #fourthCard{
+    background: radial-gradient(circle, rgba(45,189,120,1) 34%, rgba(45,203,153,1) 100%, rgba(141,252,70,1) 100%);
+ }
+ #fifthCard{
+    background: radial-gradient(circle, rgba(193,129,185,1) 0%, rgba(219,111,199,1) 100%);
+ }
+ #sixthCard{
+    background: radial-gradient(circle, rgba(62,128,66,1) 0%, rgba(30,130,28,1) 98%);
+ }
+ #seventhCard{
+    background: radial-gradient(circle, rgba(164,92,59,1) 23%, rgba(115,78,60,1) 91%);
+ }
