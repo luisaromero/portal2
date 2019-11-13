@@ -3,12 +3,12 @@
 }
 .navbar{
     height:58px;
-    background:rgb(90, 87, 87);
+    background:#5a5757;
 }
 .card{
-    margin-top:30%;
-    margin-bottom:30%;
-    height:81%;
+    margin-top:20%;
+    margin-bottom:20%;
+    height:72%;
 }
 img{
     width:110;
@@ -32,7 +32,7 @@ strong{
 
 }
 .card-body{
-   margin-top:15%;
+   margin-top:10%;
 }
 p{
     color:rgb(104, 101, 101)}
